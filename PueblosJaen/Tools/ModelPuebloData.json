@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1001,
+        "nombre": "Jamilena",
+        "comarca": "Comarca Metropolitana de Jaén",
+        "provincia": "Jaén",
+        "isFeatured": true,
+        "isVisit": true,
+        "coordinates": {
+            "longitude": -3.911007,
+            "latitude": 37.746555
+        },
+        "descripcion": "Jamilena es el municipio con el término municipal más pequeño de toda la provincia y se sitúa en el extremo suroeste de la comarca de La Campiña, al pie de la Sierra de la Grana. Su reducido término municipal se divide en dos mitades: una serrana, dedicada a pastos, y otra ocupada por olivar. Precisamente el olivar, a pesar de su pequeña extensión, es la actividad económica principal debido al gran número de explotaciones que existen en los municipios limítrofes. El otro gran producto de Jamilena, el ajo, no se cultiva en su término sino en otros de la provincia o del resto del país, aunque la conservación, manipulación, envasado y comercialización se realiza en la propia localidad y constituye una de las ocupaciones principales.",
+        "imageName": "entradaJamilena",
+        "imageEscudo": "escudoJamilena"
+    },
+    
+    {
+        "id": 1002,
+        "nombre": "Torredelcampo",
+        "comarca": "Comarca Metropolitana de Jaén",
+        "provincia": "Jaén",
+        "isFeatured": true,
+        "isVisit": true,
+        "coordinates": {
+            "longitude": -3.897,
+            "latitude": 37.771
+        },
+        "descripcion": "Torredelcampo es un municipio español con categoría histórica de villa de la provincia de Jaén, Andalucía. Su término municipal se extiende sobre 182,08 km², y su población es de 14 142 habitantes según el padrón del INE de 2020. El municipio posee un paisaje característico en el que contrastan las formas suaves y alomadas de la campiña con los relieves abruptos y accidentados de la sierra. El 90% de la superficie se encuentra cultivada. El núcleo urbano se ubica 11 km al noroeste de Jaén, al borde la autovía A-316 y a una altitud de 640 metros sobre el nivel del mar.",
+        "imageName": "PlazaTorredelcampo",
+        "imageEscudo": "escudoTorredelcampo"
+    },
+    {
+        "id": 1003,
+        "nombre": "Torredonjimeno",
+        "comarca": "Comarca Metropolitana de Jaén",
+        "provincia": "Jaén",
+        "isFeatured": true,
+        "isVisit": false,
+        "coordinates": {
+            "longitude": -3.959,
+            "latitude": 37.766
+        },
+        "descripcion": "Torredonjimeno es una ciudad y municipio español situado al suroeste de la provincia de Jaén, a 17 km de la capital provincial y tradicionalmente encuadrado en la comarca de la Campiña de Jaén, aunque actualmente pertenece a la Comarca Metropolitana de Jaén.",
+        "imageName": "Torredonjimeno",
+        "imageEscudo": "escudoTorredonjimeno"
+    }
+    
+]
